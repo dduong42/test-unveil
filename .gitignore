@@ -1,3 +1,6 @@
+*.swp
+test-fork
+
 # Prerequisites
 *.d
 
